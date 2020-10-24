@@ -1,0 +1,1 @@
+Refer to: https://github.com/snapshot-labs/snapshot-docs/blob/master/guides/create-a-space.md
